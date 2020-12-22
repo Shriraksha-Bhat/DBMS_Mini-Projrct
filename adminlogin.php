@@ -31,7 +31,7 @@
 			return false;
 		}
 		else{
-			alert("Invalid");
+			alert("Invalid Username/Password");
 		}
 	}
 </script>
