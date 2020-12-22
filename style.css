@@ -1,0 +1,73 @@
+<style>
+
+	body{
+		margin: 0;
+		padding: 0;
+		font-family: sans-serif;
+	}
+
+	body{
+		background: url('https://st4.depositphotos.com/1008011/25341/i/450/depositphotos_253411638-stock-photo-theatre-play-theme-blur-background.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+		text-align: center;
+	}
+
+	.box{
+		width: 400px;
+		padding: 30px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		background-color: white;
+	}
+
+	.box h1{
+		color: crimson;
+		text-transform: uppercase;
+		font-weight: 700; 
+	}
+
+	.box input[type="email"], .box input[type="password"], .box input[type="text"]{
+		border: 0;
+		background: none;
+		display: block;
+		margin: 20px auto;
+		text-align: center;
+		border: 3px solid #0367fd;
+		padding: 2px 17px;
+		width: 220px;
+		outline: none;
+		color: blaack;
+		border-radius: 24px;
+		transition: 0.25px;
+	}
+
+	.box input[type="email"]:focus, .box input[type="password"]:focus, .box input[type="text"]:focus{
+		width: 270px;
+		border-color: #ffc400ec;
+	}
+
+	.box input[type="submit"]{
+		border: 0;
+		background: none;
+		display: block;
+		margin: 20px auto;
+		text-align: center;
+		border: 3px solid plum;
+		padding: 2px 35px;
+		outline: none;
+		color: black;
+		border-radius: 24px;
+		transition: 0.25px;
+		cursor: pointer;
+		font-weight: bold;		
+	}
+
+	.box input[type="submit"]:hover{
+		background: pink;
+	}
+
+</style>
