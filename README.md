@@ -11,7 +11,7 @@ CUSTOMER REGISTRATION PAGE: It contains Customer Registration window, after clic
 
 ![](Registration(Output).PNG)
 
-ADMIN LOGIN PAGE: It contains Admin Login window, after clickicking Login button if the values are correct then the message will pop up as Login Successful or it will pop up as Invalid E-mail/Password.
+ADMIN LOGIN PAGE: It contains Admin Login window, after clicking Login button if the values are correct then the message will pop up as Login Successful or it will pop up as Invalid E-mail/Password.
 ![](Admin(Login).PNG)
 
 ![](Admin(LoginSuccess).PNG)
