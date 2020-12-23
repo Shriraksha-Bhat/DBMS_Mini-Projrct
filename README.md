@@ -8,11 +8,14 @@ CUSTOMER LOGIN PAGE: It contains Customer Login window with Registration and Adm
 
 CUSTOMER REGISTRATION PAGE: It contains Customer Registration window, after clicking the Register button message will pop up as Successfully Saved.
 ![](Registration.PNG)
+
 ![](Registration Output.PNG)
 
 ADMIN LOGIN PAGE: It contains Admin Login window, after clickicking Login button if the values are correct then the message will pop up as Login Successful or it will pop up as Invalid E-mail/Password.
 ![](Admin Login.PNG)
+
 ![](Admin Login Success.PNG)
+
 ![](Admin Login Fail.PNG)
 
 DATABASE: This image shows how the registered values will be  stored.
