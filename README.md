@@ -3,7 +3,7 @@
 AIM:
   The main aim of our application is to automate the ticketing process for cinema hall. So from this we can open up ourselves to the modern methods from the traditional method of standing in queue and buying the tickets which in turn also helps us to save our time. 
   
-CUSTOMER LOGIN PAGE: It contains Customer Login window with Registration and Admin Login option.
+CUSTOMER LOGIN PAGE: It contains Customer Login window with Registration and Admin Login option. after clicking Login button if the values are correct then the message will pop up as Login Successful or it will pop up as Invalid E-mail/Password.
 ![](Login.PNG)
 
 ![](Login(Success).PNG)
