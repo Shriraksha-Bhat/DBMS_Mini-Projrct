@@ -6,6 +6,10 @@ AIM:
 CUSTOMER LOGIN PAGE: It contains Customer Login window with Registration and Admin Login option.
 ![](Login.PNG)
 
+![](Login(Success).PNG)
+
+![](Login(Fail).PNG)
+
 CUSTOMER REGISTRATION PAGE: It contains Customer Registration window, after clicking the Register button message will pop up as Successfully Saved.
 ![](Registration.PNG)
 
